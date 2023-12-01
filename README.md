@@ -1,6 +1,7 @@
 # Monitorización
 
-![imagen](/img/mo.jpeg)
+![bashtop-1024x588](https://github.com/Scosrom/monitorizacion/assets/114906778/cb0d3c38-be8d-4365-a5fe-ab345d70dad4)
+
 
 ## Introducción
 
