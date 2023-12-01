@@ -3,7 +3,7 @@
 
 ![0_Pn1vXqSDvpl1sJkh](https://github.com/Scosrom/monitorizacion/assets/114906778/e9d72303-e764-43e7-a77e-1010e7980faa)
 
-
+Prometheus es una herramienta de monitoreo de código abierto que recopila y almacena métricas en tiempo real de sistemas y servicios. Permite realizar consultas, definir alertas y escalar fácilmente. Se utiliza comúnmente en entornos de contenedores y sistemas distribuidos para obtener información detallada sobre el rendimiento.
 
 ## **Crear y configurar usuario y directorios Prometheus**
 
