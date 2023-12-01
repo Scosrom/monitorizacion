@@ -5,9 +5,9 @@
 
 
 
-## Crear y configurar usuario y directorios Prometheus
+## **Crear y configurar usuario y directorios Prometheus**
 
-#### Creación de un Usuario para Prometheus.
+### **Creación de un Usuario para Prometheus.**
 
 ```
 useradd --no-create-home --shell /bin/false prometheus
@@ -19,18 +19,18 @@ Explicacion de los Parámetros:
 
 * --shell /bin/false: El usuario "prometheus" no podrá iniciar sesión de manera interactiva.
 
-#### Crear directorio donde vamos a Instalar Prometheus
+### **Crear directorio donde vamos a Instalar Prometheus**
 
 ```
 mkdir /etc/prometheus
 ```
-#### Crear el directorio de /var de prometheus
+### **Crear el directorio de /var de prometheus**
 
 ```
 mkdir /var/lib/prometheus
 ```
 
-#### Indicamos que el Usuario prometheus sea el propietario de ambos archivos
+### **Indicamos que el Usuario prometheus sea el propietario de ambos archivos**
 
 ```
 chown prometheus:prometheus /etc/prometheus/
