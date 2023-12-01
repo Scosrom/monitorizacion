@@ -37,22 +37,22 @@ chown prometheus:prometheus /etc/prometheus/
 chown prometheus:prometheus /var/lib/prometheus/
 ```
 
-## Instalar Prometheus
+## **Instalar Prometheus**
 
-#### Descargar prometheus
+### **Descargar prometheus**
 
 ```
 apt install curl
 curl -LO https://github.com/prometheus/prometheus/releases/download/v2.48.0/prometheus-2.48.0.linux-amd64.tar.gz
 ```
 
-#### Descomprimir prometheus
+### **Descomprimir prometheus**
 
 ```
 tar xvf prometheus-2.48.0.linux-amd64.tar.gz
 ```
 
-#### Copiar prometheus a los directorios de binarios:
+### **Copiar prometheus a los directorios de binarios:**
 
 ```
 sudo cp prometheus-2.48.0.linux-amd64/prometheus /usr/local/bin/
@@ -66,7 +66,7 @@ sudo chown -R prometheus:prometheus /etc/prometheus/console_libraries
 rm -rf prometheus-2.48.0.linux-amd64.tar.gz prometheus-2.48.0.linux-amd64
 ```
 
-#### Editar el fichero prometheus
+### **Editar el fichero prometheus**
 
 ```
 nano /etc/prometheus/prometheus.yml
@@ -84,13 +84,13 @@ scrape_configs:
    - targets: ['localhost:9090']
 ```
 
-#### Cambiar el propietario del archivo de configuración prometheus.yml a prometheus:
+### **Cambiar el propietario del archivo de configuración prometheus.yml a prometheus:**
 
 ```
 chown prometheus:prometheus /etc/prometheus/prometheus.yml
 ```
 
-### Crear el servicio Prometheus
+### **Crear el servicio Prometheus**
 
 ```
 nano /etc/systemd/system/prometheus.service
@@ -117,7 +117,7 @@ ExecStart=/usr/local/bin/prometheus \
 WantedBy=multi-user.target
 ```
 
-#### Arrancar y habilitar el servicio de Prometheus
+### **Arrancar y habilitar el servicio de Prometheus**
 
 ```
 systemctl daemon-reload
