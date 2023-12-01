@@ -1,5 +1,10 @@
 # Instalar Prometheus en GNU/Linux
 
+
+![0_Pn1vXqSDvpl1sJkh](https://github.com/Scosrom/monitorizacion/assets/114906778/e9d72303-e764-43e7-a77e-1010e7980faa)
+
+
+
 ## Crear y configurar usuario y directorios Prometheus
 
 #### Creación de un Usuario para Prometheus.
