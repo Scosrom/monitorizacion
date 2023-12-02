@@ -25,7 +25,8 @@ La monitorización es un aspecto crítico en la gestión de sistemas y redes. Pr
 2. [Sistemas de monitorización](herramientas.md)
 
 3. [Prometheus](prom.md)
-4. [Grafana](graf.md)
+      - [Exporters](exporters.md)
+5. [Grafana](graf.md)
 
 ### Discos
 
