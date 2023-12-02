@@ -1,6 +1,5 @@
 # 1. Herramientas propias del sistema
 
-![herramientas](/img/herramientas.webp)
 
 ## 1.1 Registro de eventos del sistema
 
