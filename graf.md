@@ -1,39 +1,45 @@
-## Instalación de Grafana
-Por defecto, en los repositorios de Debian no viene el paquete de Grafana, por lo que tendremos que añadir el repositorio manualmente. Para este tutorial usaremos el repositorio OSS. Primero deberemos de tener algunos paquetes instalados y las llaves para el repositorio:
+# Grafana
+![image](https://github.com/Scosrom/monitorizacion/assets/114906778/6d80a7e9-8d12-42b7-a598-08aa943f141d)
+
+## Instalar Grafana
+
+### Instalar las dependencias de Grafana:
 
 ```
-apt install apt-transport-https software-properties-common wget
+ sudo apt install -y apt-transport-https
+ sudo apt install -y software-properties-common wget
+```
+
+ 
+
+### Instalar repositorio de Grafana:
+
+```
 wget -q -O - https://packages.grafana.com/gpg.key | sudo apt-key add -
+
+sudo add-apt-repository "deb https://packages.grafana.com/oss/deb stable main"
+
+sudo apt update
 ```
 
-Luego crearemos el fichero del repositorio:
+
+
+### Instalar Grafana:
 
 ```
-# nano /etc/apt/sources.list.d/grafana.list
+sudo apt install grafana
 ```
+ 
 
-Y añadimos el siguiente contenido:
-
-```
-deb https://packages.grafana.com/oss/deb stable main
-```
-Guardamos el fichero y actualizamos repositorios:
+### Iniciar/Habilitar servicio Grafana:
 
 ```
-# apt update
+sudo systemctl daemon-reload
+sudo systemctl enable grafana-server
+sudo systemctl start grafana-server
+sudo systemctl status grafana-server
 ```
 
-Finalmente, instalamos el paquete:
 
-```
-# apt install grafana
-```
-
-Tras instalarle, iniciamos el servicio y lo añadimos al arranque:
-
-```
-# systemctl start grafana-server
-# systemctl enable grafana-server
-```
-Una vez el servicio está levantado, podemos iniciar sesión desde el navegador accediendo al puerto 3000. El usuario y contraseña por defecto es admin y luego nos pedirá de cambiarlo.
+* El usuario y contraseña por defecto de grafana es admin/admin.
 
