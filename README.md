@@ -32,10 +32,19 @@ En esta sección, se presentan algunas herramientas propias del sistema que son 
      
 1. [Sistemas de monitorización](herramientas.md)
 
+En esta sección, se exploran herramientas clave para la monitorización de sistemas.
+
    - [Prometheus](prom.md)
-      - [Exporters](exporters.md)
+     
+Prometheus es un sistema de monitorización y alerta de código abierto diseñado para gestionar entornos altamente dinámicos. Puede recopilar métricas de diversas fuentes, almacenarlas y permitir consultas y alertas basadas en esas métricas
+
+   - [Exporters](exporters.md)
+
+Los Exporters en Prometheus son componentes adicionales que recopilan métricas específicas de sistemas y servicios y las exponen en un formato que Prometheus puede entender. Estos son esenciales para la integración de Prometheus con diferentes tecnologías.
    
    - [Grafana](graf.md)
+
+Grafana es una plataforma de análisis y visualización que se integra bien con sistemas de monitorización como Prometheus
 
 ### Discos
 
