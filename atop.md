@@ -1,6 +1,5 @@
 # Atop
 
-![atop](/img/atop.png)
 
 atop es una herramienta de monitoreo del sistema en tiempo real en sistemas basados en Unix, como Linux. Proporciona información detallada sobre el uso del sistema, la carga de trabajo y la actividad de los procesos. A diferencia de top, atop también almacena datos históricos, lo que permite revisar la actividad del sistema en el pasado.
 
