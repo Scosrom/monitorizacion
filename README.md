@@ -9,7 +9,7 @@ La monitorización es un aspecto crítico en la gestión de sistemas y redes. Pr
 
 <h2 align="center"> Contenidos  </h2>
 
-### **Procesos**
+### 📊 **Procesos** 📈
 
 1. [Herramientas propias del sistema](herramientas.md)
 
@@ -45,11 +45,11 @@ Los Exporters en Prometheus son componentes adicionales que recopilan métricas 
 
 Grafana es una plataforma de análisis y visualización que se integra bien con sistemas de monitorización como Prometheus
 
-### **Discos**
+### 💽 **Discos** 💾
 
    - [Herramientas](discosh.md)
 
-### **Redes**
+### 🌐 **Redes** 🌏
 
    - [Comandos](redes.md)
 
