@@ -16,8 +16,7 @@ La monitorización es un aspecto crítico en la gestión de sistemas y redes. Pr
 En esta sección, se presentan algunas herramientas propias del sistema que son útiles para la monitorización.
 
    - [1.1. top](top.md)
-     
-`top` es un comando que proporciona una vista en tiempo real de los procesos en ejecución. Muestra información como la carga del sistema, la memoria utilizada y los procesos activos.
+Descripción: es un comando que proporciona una vista en tiempo real de los procesos en ejecución. Muestra información como la carga del sistema, la memoria utilizada y los procesos activos.
 
    - [1.2. atop](atop.md)
 
