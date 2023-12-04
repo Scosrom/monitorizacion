@@ -11,7 +11,7 @@ La monitorización es un aspecto crítico en la gestión de sistemas y redes. Pr
 
 ### 📊 **Procesos** 📈
 
-1. [Herramientas propias del sistema](herramientas.md)
+#### 1. [Herramientas propias del sistema](herramientas.md)
 
 En esta sección, se presentan algunas herramientas propias del sistema que son útiles para la monitorización.
 
@@ -29,7 +29,7 @@ Descripción: es una versión mejorada de top con una interfaz más amigable y f
 
    - [1.4. Comandos](proch.md)
      
-2. [Sistemas de monitorización](herramientas.md)
+#### 2. [Sistemas de monitorización](herramientas.md)
 
 En esta sección, se exploran herramientas clave para la monitorización de sistemas.
 
