@@ -21,11 +21,10 @@ En esta sección, se presentan algunas herramientas propias del sistema que son 
 
    - [1.2. atop](atop.md)
 
-`atop` es una herramienta avanzada de monitorización que muestra información detallada sobre los recursos del sistema y los procesos en ejecución.
+Descripción: es una herramienta avanzada de monitorización que muestra información detallada sobre los recursos del sistema y los procesos en ejecución.
 
    - [1.3. htop](htop.md)
-
-`htop` es una versión mejorada de top con una interfaz más amigable y funciones adicionales.
+Descripción: es una versión mejorada de top con una interfaz más amigable y funciones adicionales.
 
    - [1.4. Comandos](proch.md)
      
@@ -35,15 +34,15 @@ En esta sección, se exploran herramientas clave para la monitorización de sist
 
    - [2.1. Prometheus](prom.md)
      
-Prometheus es un sistema de monitorización y alerta de código abierto diseñado para gestionar entornos altamente dinámicos. Puede recopilar métricas de diversas fuentes, almacenarlas y permitir consultas y alertas basadas en esas métricas
+Descripción: Prometheus es un sistema de monitorización y alerta de código abierto diseñado para gestionar entornos altamente dinámicos. Puede recopilar métricas de diversas fuentes, almacenarlas y permitir consultas y alertas basadas en esas métricas
 
    - [2.2. Exporters](exporters.md)
 
-Los Exporters en Prometheus son componentes adicionales que recopilan métricas específicas de sistemas y servicios y las exponen en un formato que Prometheus puede entender. Estos son esenciales para la integración de Prometheus con diferentes tecnologías.
+Descripción: Los Exporters en Prometheus son componentes adicionales que recopilan métricas específicas de sistemas y servicios y las exponen en un formato que Prometheus puede entender. Estos son esenciales para la integración de Prometheus con diferentes tecnologías.
    
    - [2.3. Grafana](graf.md)
 
-Grafana es una plataforma de análisis y visualización que se integra bien con sistemas de monitorización como Prometheus
+Descripción: Grafana es una plataforma de análisis y visualización que se integra bien con sistemas de monitorización como Prometheus
 
 ### 💽 **Discos** 💾
 
