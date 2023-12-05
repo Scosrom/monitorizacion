@@ -1,6 +1,6 @@
 <h1 align="center">🚦   Monitorización  🚦 </h1>
 
-![bashtop-1024x588](https://github.com/Scosrom/monitorizacion/assets/114906778/cb0d3c38-be8d-4365-a5fe-ab345d70dad4)
+![image](https://github.com/Scosrom/monitorizacion/assets/114906778/9f996f9a-9351-4f89-b220-05b1e5924d21)
 
 
 <h2 align="center"> Introducción  </h2>
