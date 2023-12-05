@@ -9,6 +9,26 @@
 
 La monitorización es un aspecto crítico en la gestión de sistemas y redes. Proporciona información en tiempo real sobre el rendimiento, la disponibilidad y el estado de los recursos. Este documento abordará diversas herramientas y enfoques utilizados en el ámbito de la monitorización.
 
+## Índice
+
+Procesos
+  1. Herramientas Propias del sistema
+     
+     1.1. top
+     1.2  Atop
+     1.3  htop
+     1.4  Comandos
+
+  2. Sistemas de monitorización
+     
+     2.1  Prometheus
+     2.2  Exporters
+     2.3  Grafana
+     
+Discos
+
+Redes
+
 <h2> Contenidos  </h2>
 
 ### 📊 **Procesos** 📈
