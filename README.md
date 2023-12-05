@@ -15,14 +15,19 @@ Procesos
   1. Herramientas Propias del sistema
      
      1.1. top
+     
      1.2  Atop
+     
      1.3  htop
+     
      1.4  Comandos
 
-  2. Sistemas de monitorización
+  3. Sistemas de monitorización
      
      2.1  Prometheus
+     
      2.2  Exporters
+     
      2.3  Grafana
      
 Discos
