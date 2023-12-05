@@ -1,6 +1,8 @@
 <h1 align="center">🚦   Monitorización  🚦 </h1>
 
-![image](https://github.com/Scosrom/monitorizacion/assets/114906778/9f996f9a-9351-4f89-b220-05b1e5924d21)
+<p align="center">
+  <img src="https://github.com/Scosrom/monitorizacion/assets/114906778/9f996f9a-9351-4f89-b220-05b1e5924d21" alt="Descripción de la imagen">
+</p>
 
 
 <h2 align="center"> Introducción  </h2>
