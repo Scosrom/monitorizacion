@@ -32,6 +32,10 @@ La monitorización es un aspecto crítico en la gestión de sistemas y redes. Pr
      
 **DISCOS**
 
+
+     
+**REDES**
+
 3. Herramientas propias del sistema
 
    3.1  Tcpdump
@@ -41,8 +45,6 @@ La monitorización es un aspecto crítico en la gestión de sistemas y redes. Pr
    3.3 iptraf
 
    3.4 netstat
-     
-**REDES**
 
 <h2> Contenidos  </h2>
 
