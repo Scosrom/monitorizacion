@@ -78,6 +78,18 @@ Descripción: Grafana es una plataforma de análisis y visualización que se int
 
 ### 🌐 **Redes** 🌏
 
+   -[tcpdump](tcpdump.md)
+   
+Descripcion:  Es una potente herramienta de línea de comandos para la captura y análisis de paquetes en una red. Permite ver el tráfico en tiempo real o guardar la captura en un archivo para su posterior análisis.
+
+   -[tcptrak](tcptrack.md)
+   
+Descripcion: Es una herramienta que muestra información en tiempo real sobre las conexiones TCP activas en una red. Proporciona una interfaz de usuario simple y colorida que muestra las conexiones en curso, su estado, la cantidad de datos transferidos y más.
+
+   -[iptraf](iptraf.md)
+
+Descripcion: Es una herramienta de monitoreo de red basada en texto que muestra información detallada sobre el tráfico IP en tiempo real. 
+   
    - [Comandos](redes.md)
 
 
