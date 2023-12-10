@@ -5,39 +5,27 @@
 
 El comando top es una herramienta de línea de comandos en sistemas Unix/Linux que proporciona información en tiempo real sobre el rendimiento del sistema y la actividad de los procesos. Permite a los usuarios monitorear de manera interactiva diversos aspectos del sistema, incluyendo la carga de la CPU, el uso de memoria, las estadísticas de la red y la lista de procesos en ejecución.
 
-PID (Process ID):
+<code>PID (Process ID): </code> Identificador único para cada proceso en ejecución.
 
-Identificador único para cada proceso en ejecución.
-USER:
+<code>USER:</code> El nombre del usuario que inició el proceso.
 
-El nombre del usuario que inició el proceso.
-PR (Priority):
+<code>PR (Priority):</code> La prioridad del proceso.
 
-La prioridad del proceso.
-NI (Nice value):
+<code>NI (Nice value):</code> El valor de "niceness" del proceso, que afecta su prioridad.
 
-El valor de "niceness" del proceso, que afecta su prioridad.
-VIRT (Virtual Memory):
+<code>VIRT (Virtual Memory):</code> La cantidad total de memoria virtual utilizada por el proceso.
 
-La cantidad total de memoria virtual utilizada por el proceso.
-RES (Resident Memory):
+<code>RES (Resident Memory):</code> La cantidad de memoria física (RAM) utilizada por el proceso.
 
-La cantidad de memoria física (RAM) utilizada por el proceso.
-SHR (Shared Memory):
+<code> SHR (Shared Memory):</code> La cantidad de memoria compartida utilizada por el proceso.
 
-La cantidad de memoria compartida utilizada por el proceso.
-S (%CPU):
+<code>S (%CPU):</code> El porcentaje de uso de la CPU por parte del proceso.
 
-El porcentaje de uso de la CPU por parte del proceso.
-MEM (%MEM):
+<code>MEM (%MEM):</code> El porcentaje de memoria RAM utilizada por el proceso.
 
-El porcentaje de memoria RAM utilizada por el proceso.
-TIME+:
+<code>TIME+:</code> El tiempo total de CPU que ha consumido el proceso desde su inicio.
 
-El tiempo total de CPU que ha consumido el proceso desde su inicio.
-COMMAND:
-
-El comando o la ruta del ejecutable que inició el proceso.
+<code>COMMAND:</code> El comando o la ruta del ejecutable que inició el proceso.
 
 | Opción         | Descripción                                   |
 | --------------- | --------------------------------------------- |
