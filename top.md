@@ -1,6 +1,7 @@
 # top
 
-![image](https://github.com/Scosrom/monitorizacion/assets/114906778/a2ab92f3-ae9f-478f-bfab-abeee75e0120)
+![Diseño sin título (2)](https://github.com/Scosrom/monitorizacion/assets/114906778/6b9aa87a-8589-44ef-af17-6e0178949595)
+
 
 
 El comando top es una herramienta de línea de comandos en sistemas Unix/Linux que proporciona información en tiempo real sobre el rendimiento del sistema y la actividad de los procesos. Permite a los usuarios monitorear de manera interactiva diversos aspectos del sistema, incluyendo la carga de la CPU, el uso de memoria, las estadísticas de la red y la lista de procesos en ejecución.
