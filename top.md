@@ -5,6 +5,40 @@
 
 El comando top es una herramienta de línea de comandos en sistemas Unix/Linux que proporciona información en tiempo real sobre el rendimiento del sistema y la actividad de los procesos. Permite a los usuarios monitorear de manera interactiva diversos aspectos del sistema, incluyendo la carga de la CPU, el uso de memoria, las estadísticas de la red y la lista de procesos en ejecución.
 
+PID (Process ID):
+
+Identificador único para cada proceso en ejecución.
+USER:
+
+El nombre del usuario que inició el proceso.
+PR (Priority):
+
+La prioridad del proceso.
+NI (Nice value):
+
+El valor de "niceness" del proceso, que afecta su prioridad.
+VIRT (Virtual Memory):
+
+La cantidad total de memoria virtual utilizada por el proceso.
+RES (Resident Memory):
+
+La cantidad de memoria física (RAM) utilizada por el proceso.
+SHR (Shared Memory):
+
+La cantidad de memoria compartida utilizada por el proceso.
+S (%CPU):
+
+El porcentaje de uso de la CPU por parte del proceso.
+MEM (%MEM):
+
+El porcentaje de memoria RAM utilizada por el proceso.
+TIME+:
+
+El tiempo total de CPU que ha consumido el proceso desde su inicio.
+COMMAND:
+
+El comando o la ruta del ejecutable que inició el proceso.
+
 | Opción         | Descripción                                   |
 | --------------- | --------------------------------------------- |
 | `-d`            | Especifica el intervalo de actualización en segundos  |
