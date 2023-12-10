@@ -1,5 +1,7 @@
 # top
 
+El comando top es una herramienta de línea de comandos en sistemas Unix/Linux que proporciona información en tiempo real sobre el rendimiento del sistema y la actividad de los procesos. Permite a los usuarios monitorear de manera interactiva diversos aspectos del sistema, incluyendo la carga de la CPU, el uso de memoria, las estadísticas de la red y la lista de procesos en ejecución.
+
 | Opción         | Descripción                                   |
 | --------------- | --------------------------------------------- |
 | `-d`            | Especifica el intervalo de actualización en segundos  |
