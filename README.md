@@ -12,26 +12,35 @@ La monitorización es un aspecto crítico en la gestión de sistemas y redes. Pr
 ## Índice
 
 Procesos
-  1. Herramientas Propias del sistema
+1. Herramientas Propias del sistema
      
-     1.1. top
+   1.1. top
      
-     1.2  Atop
+   1.2  Atop
      
-     1.3  htop
+   1.3  htop
      
-     1.4  Comandos
+   1.4  Comandos
 
-  3. Sistemas de monitorización
+2. Sistemas de monitorización
      
-     2.1  Prometheus
+   2.1  Prometheus
      
-     2.2  Exporters
+   2.2  Exporters
      
-     2.3  Grafana
+   2.3  Grafana
      
 Discos
+3. Herramientas propias del sistema
 
+   3.1  Tcpdump
+
+   3.2  Tcptrack
+
+   3.3 iptraf
+
+   3.4 netstat
+     
 Redes
 
 <h2> Contenidos  </h2>
