@@ -8,3 +8,42 @@
 | `Shift + E`     | Cambia la unidad de medida de CPU a porcentaje de tiempo en lugar de por núcleo  |
 | `Shift + M`     | Ordena la lista de procesos por uso de memoria  |
 | `Shift + P`     | Ordena la lista de procesos por uso de CPU      |
+
+# Comando `top` en Linux
+
+```bash
+# Uso Básico
+top
+
+# Opciones Comunes
+## Ordenar por CPU
+top -o %CPU
+
+## Ordenar por memoria
+top -o %MEM
+
+## Filtrar por usuario
+top -u nombre_usuario
+
+## Cambiar intervalo de actualización
+top -d segundos
+
+## Mostrar ayuda
+top -h
+
+# Interacción en la Interfaz
+## Kill proceso
+# Presiona 'k', ingresa el PID y presiona Enter
+
+## Cambiar unidades de memoria
+# Presiona 'e' para cambiar entre unidades (KB, MB, GB)
+
+## Mostrar/Ocultar columnas
+# Presiona 'f' para agregar o quitar columnas
+
+# Ejemplos Adicionales
+## Top 5 procesos por CPU
+top -o %CPU -n 5
+
+## Mostrar procesos de usuario y actualizar cada 2 segundos
+top -u nombre_usuario -d 2
