@@ -1,7 +1,6 @@
 # top
 
-<img src="https://github.com/Scosrom/monitorizacion/assets/114906778/6b9aa87a-8589-44ef-af17-6e0178949595" width="600" height="600">
-
+![image](https://github.com/Scosrom/monitorizacion/assets/114906778/72338e0c-ba0d-42dc-878f-40dd5f5f517d)
 
 
 
@@ -76,3 +75,6 @@ top -o %CPU -n 5
 
 ## Mostrar procesos de usuario y actualizar cada 2 segundos
 top -u nombre_usuario -d 2
+
+
+<img src="https://github.com/Scosrom/monitorizacion/assets/114906778/6b9aa87a-8589-44ef-af17-6e0178949595" width="600" height="600">
