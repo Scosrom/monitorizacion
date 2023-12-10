@@ -22,7 +22,7 @@ La monitorización es un aspecto crítico en la gestión de sistemas y redes. Pr
  -  1.3  htop
      
  -  1.4  Comandos
-     
+
 **DISCOS**
 
 
@@ -67,10 +67,12 @@ Descripción: es una versión mejorada de top con una interfaz más amigable y f
 
    - [1.4. Comandos](proch.md)
      
+---
 
 ### 💽 **Discos** 💾
 
    - [Herramientas](discosh.md)
+---
 
 ### 🌐 **Redes** 🌏
 
@@ -93,6 +95,7 @@ Descripcion: Es una herramienta de monitoreo de red basada en texto que muestra 
   - [netstat](netstat.md)
    
    - [Comandos](redes.md)
+---
 
 #### 2. [Sistemas de monitorización](herramientas.md)
 
