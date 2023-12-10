@@ -1,5 +1,7 @@
 # Htop
 
+![image](https://github.com/Scosrom/monitorizacion/assets/114906778/47f265c1-6a7a-41ab-9ec8-be44fad73a29)
+
 htop es una herramienta avanzada de monitoreo del sistema en la línea de comandos que proporciona una interfaz de usuario más amigable en comparación con el comando top. Algunas características clave incluyen:
 
 
