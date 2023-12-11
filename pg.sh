@@ -1,7 +1,7 @@
 #!/bin/bash
 
 apt install figlet -y
-figlet "Prometheus-grafana-node_exporter"
+figlet "Instalacion GPNE"
 
 read -p "¿Cual es tu ip? " ip
 
