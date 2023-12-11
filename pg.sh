@@ -1,3 +1,8 @@
+#!/bin/bash
+
+apt install figlet -y
+figlet "Prometheus-grafana-node_exporter"
+
 read -p "¿Cual es tu ip? " ip
 
 apt update -y
@@ -108,3 +113,5 @@ systemctl daemon-reload
 systemctl enable grafana-server
 systemctl start grafana-server
 systemctl status grafana-server
+
+figlet "ID 1860"
