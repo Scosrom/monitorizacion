@@ -113,6 +113,7 @@ Descripción: Los Exporters en Prometheus son componentes adicionales que recopi
 
 Descripción: Grafana es una plataforma de análisis y visualización que se integra bien con sistemas de monitorización como Prometheus
 
+   - [2.4. Script instalacion](pg.sh)
 
 
 <h2 align="center">  Referencias  </h2>
