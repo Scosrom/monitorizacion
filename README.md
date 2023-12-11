@@ -115,6 +115,7 @@ Descripción: Grafana es una plataforma de análisis y visualización que se int
 
    - [2.4. Script instalacion](pg.sh)
 
+   - [2.5 Script Apache_exporter](ae.sh)
 
 <h2 align="center">  Referencias  </h2>
 
