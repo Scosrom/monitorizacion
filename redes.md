@@ -41,8 +41,6 @@ Descripcion: Es una herramienta de monitoreo de red basada en texto que muestra 
 | -x     | Muestra estadísticas extendidas.     |
 
 
-PUERTOS:
-
 3.4 netstat
 
 Descripción: netstat es una herramienta de línea de comandos que muestra información detallada sobre las conexiones de red, tablas de enrutamiento, estadísticas de interfaces, y conexiones masivas y de escucha en un sistema. Permite supervisar la actividad de red, mostrar información sobre protocolos como TCP, UDP, ICMP, y más.
