@@ -1,27 +1,59 @@
-# Redes
+# tcpdump
 
-```
- tcpdump -n -i eno1 net 172.26.0.0/16
-```
+Descripcion: Es una potente herramienta de línea de comandos para la captura y análisis de paquetes en una red. Permite ver el tráfico en tiempo real o guardar la captura en un archivo para su posterior análisis.
 
-Este comando utiliza tcpdump, una herramienta de línea de comandos en sistemas Unix y Linux que permite capturar y mostrar el tráfico de red en tiempo real. Aquí está la explicación de los parámetros utilizados en el comando:
+| Opción | Descripción                                   |
+|--------|-----------------------------------------------|
+| -i     | Especifica la interfaz de red para la captura. |
+| -n     | Muestra direcciones IP en lugar de nombres.    |
+| -X     | Muestra datos hexadecimales y ASCII.           |
+| -w     | Guarda la captura en un archivo.               |
+| -r     | Lee la captura desde un archivo.               |
+| -c     | Limita el número de paquetes a capturar.       |
+| -s     | Especifica la longitud de captura en bytes.   |
 
-**-n**: Indica a tcpdump que no realice la resolución inversa de direcciones IP a nombres de host. Esto significa que las direcciones IP se mostrarán numéricamente en lugar de intentar convertirlas en nombres de dominio.
 
-**-i eno1**: Especifica la interfaz de red que tcpdump debe utilizar para capturar el tráfico. En este caso, la interfaz es eno1. Puedes reemplazar eno1 con el nombre de la interfaz que estás utilizando en tu sistema.
+# tcptrak
 
-**net 172.26.0.0/16**: Define un filtro para capturar el tráfico de red que pertenece a la red 172.26.0.0 con una máscara de subred de 16 bits (lo que significa que incluirá todas las direcciones IP desde 172.26.0.0 hasta 172.26.255.255). Este filtro asegura que solo se capture el tráfico que pertenece a esa red específica.
+Descripcion: Es una herramienta que muestra información en tiempo real sobre las conexiones TCP activas en una red. Proporciona una interfaz de usuario simple y colorida que muestra las conexiones en curso, su estado, la cantidad de datos transferidos y más.
+
+| Opción | Descripción                   |
+|--------|-------------------------------|
+| -i     | Especifica la interfaz de red. |
+| -p     | Filtra por puerto.             |
+| -u     | Muestra conexiones UDP.        |
+| -t     | Muestra conexiones TCP.        |
+| -l     | Muestra estadísticas en tiempo real. |
+| -s     | Ordena las conexiones por cantidad de datos transferidos. |
 
 
-```
-tcptrack -i eno1
-```
-El comando tcptrack es otra herramienta útil para monitorear la actividad de red en sistemas Unix y Linux. En este caso, estás utilizando tcptrack para seguir la actividad TCP en la interfaz de red eno1. Aquí está la explicación del comando:
+# iptraf
 
-**-i eno1**: Especifica la interfaz de red que tcptrack debe monitorear. En este caso, la interfaz es eno1. Puedes reemplazar eno1 con el nombre de la interfaz que estás utilizando en tu sistema.
-tcptrack visualiza la actividad TCP en tiempo real, mostrando información sobre las conexiones TCP establecidas, las tasas de transferencia, las direcciones IP y los puertos involucrados, entre otros detalles. Este tipo de herramienta es útil para obtener una visión rápida de qué conexiones TCP están activas en tu sistema en un momento dado.
+Descripcion: Es una herramienta de monitoreo de red basada en texto que muestra información detallada sobre el tráfico IP en tiempo real.
 
-```
-sudo apt-get install tcptrack
-```
+| Opción | Descripción                          |
+|--------|--------------------------------------|
+| -i     | Especifica la interfaz de red.       |
+| -g     | Muestra estadísticas generales.      |
+| -t     | Muestra estadísticas de conexiones TCP. |
+| -s     | Muestra estadísticas de conexiones UDP. |
+| -z     | Muestra estadísticas de conexiones ICMP.|
+| -x     | Muestra estadísticas extendidas.     |
+
+
+PUERTOS:
+
+3.4 netstat
+
+Descripción: netstat es una herramienta de línea de comandos que muestra información detallada sobre las conexiones de red, tablas de enrutamiento, estadísticas de interfaces, y conexiones masivas y de escucha en un sistema. Permite supervisar la actividad de red, mostrar información sobre protocolos como TCP, UDP, ICMP, y más.
+
+| Opción | Descripción                   |
+|--------|-------------------------------|
+| -a     | Muestra todas las conexiones y escuchas. |
+| -t     | Muestra conexiones TCP.        |
+| -u     | Muestra conexiones UDP.        |
+| -n     | Muestra direcciones IP y números de puerto en lugar de nombres. |
+| -p     | Muestra el ID del proceso asociado con la conexión. |
+| -l     | Muestra solo las conexiones en escucha (listening). |
+
 
