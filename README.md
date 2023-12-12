@@ -105,15 +105,9 @@ En esta sección, se exploran herramientas clave para la monitorización de sist
 
    - [2.1. Prometheus](prom.md)
      
-Descripción: Prometheus es un sistema de monitorización y alerta de código abierto diseñado para gestionar entornos altamente dinámicos. Puede recopilar métricas de diversas fuentes, almacenarlas y permitir consultas y alertas basadas en esas métricas
-
    - [2.2. Exporters](exporters.md)
 
-Descripción: Los Exporters en Prometheus son componentes adicionales que recopilan métricas específicas de sistemas y servicios y las exponen en un formato que Prometheus puede entender. Estos son esenciales para la integración de Prometheus con diferentes tecnologías.
-   
    - [2.3. Grafana](graf.md)
-
-Descripción: Grafana es una plataforma de análisis y visualización que se integra bien con sistemas de monitorización como Prometheus
 
    - [2.4. Script instalacion](pg.sh)
 
