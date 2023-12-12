@@ -5,11 +5,11 @@
 </p>
 
 
-<h2> Introducción </h2>
+<h2 align="center"> Introducción </h2>
 
 La monitorización es un aspecto crítico en la gestión de sistemas y redes. Proporciona información en tiempo real sobre el rendimiento, la disponibilidad y el estado de los recursos. Este documento abordará diversas herramientas y enfoques utilizados en el ámbito de la monitorización.
 
-## Índice
+<h2 align="center"> Índice </h2>
 
 ### 1. Herramientas Propias del sistema
    
@@ -53,7 +53,7 @@ La monitorización es un aspecto crítico en la gestión de sistemas y redes. Pr
      
   - 2.3  Grafana
    
-<h2> Contenidos  </h2>
+<h2 align="center"> Contenidos  </h2>
 
 ### 📊 **Procesos** 📈
 
