@@ -121,8 +121,9 @@ Descripción: Grafana es una plataforma de análisis y visualización que se int
 
 <h2 align="center">  Referencias  </h2>
 
-1. [Nagios Documentación](https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/)
-2. [Prometheus Documentación](https://prometheus.io/docs/introduction/overview/)
+1. [Prometheus Documentación](https://prometheus.io/docs/introduction/overview/)
+2. [Grafana Documentación](https://grafana.com/docs/grafana/latest/)
+3. [Debian Documentación](https://www.debian.org/doc/index.es.html)
 
 <h2 align="center"> Licencia  </h2>
 
