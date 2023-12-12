@@ -121,15 +121,11 @@ Descripción: Grafana es una plataforma de análisis y visualización que se int
 
 <h2 align="center">  Referencias  </h2>
 
-1. [Prometheus Documentación](https://prometheus.io/docs/introduction/overview/)
-2. [Grafana Documentación](https://grafana.com/docs/grafana/latest/)
-3. [Debian Documentación](https://www.debian.org/doc/index.es.html)
-
 [![Prometheus Documentation](/img/file_type_prometheus_icon_130229.png)](https://prometheus.io/docs/introduction/overview/)
 
 [![Grafana Documentation](/img/grafana_logo_icon_171048.png)](https://grafana.com/docs/grafana/latest/)
 
-[![Debian Documentation](https://your-image-url.com/debian_button.png)](https://www.debian.org/doc/index.es.html)
+[![Debian Documentation](/img/debian_original_logo_icon_146566.png)](https://www.debian.org/doc/index.es.html)
 
 
 <h2 align="center"> Licencia  </h2>
