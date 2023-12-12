@@ -20,8 +20,6 @@ La monitorización es un aspecto crítico en la gestión de sistemas y redes. Pr
  -  1.2  Atop
      
  -  1.3  htop
-     
- -  1.4  Comandos
 
 **DISCOS**
 
@@ -64,8 +62,6 @@ Descripción: es una herramienta avanzada de monitorización que muestra informa
    - [1.3. htop](htop.md)
      
 Descripción: es una versión mejorada de top con una interfaz más amigable y funciones adicionales.
-
-   - [1.4. Comandos](proch.md)
      
 ---
 
