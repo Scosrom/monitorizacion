@@ -64,27 +64,15 @@ En esta sección, se presentan algunas herramientas propias del sistema que son 
 
   - [2.1. df](discosh.md)
 
-Descripción: El comando df muestra información sobre el espacio disponible y utilizado en los sistemas de archivos montados. Proporciona detalles sobre la capacidad, el espacio utilizado, el espacio libre y el tipo de sistema de archivos.
-
   - [2.2. du](discosh.md)
-
-Descripción: La utilidad du se utiliza para estimar el espacio utilizado por directorios y archivos en un sistema de archivos. Permite identificar qué directorios o archivos están ocupando más espacio.
 
   - [2.3. iostat](discosh.md)
 
-Descripción: El comando iostat muestra estadísticas de entrada/salida del sistema, incluyendo información sobre el rendimiento de los discos. Proporciona datos sobre la tasa de transferencia, el tiempo de respuesta y la actividad de lectura/escritura.
-
   - [2.4. lsof](discosh.md)
-
-Descripción: lsof (List Open Files) muestra una lista de archivos abiertos por procesos en el sistema. Es útil para identificar qué procesos tienen archivos abiertos en dispositivos de almacenamiento.
 
   - [2.6. blkid](discosh.md)
 
-Descripción: El comando blkid muestra información sobre los dispositivos de bloque, como UUID (Identificador Único Universal) y el tipo de sistema de archivos. Es útil para identificar discos y particiones.
-
   - [2.7. fdisk](discosh.md)
-
-Descripción: fdisk es una herramienta para la manipulación de tablas de particiones en discos. Se utiliza para crear, modificar y eliminar particiones en discos duros.
 
 
 ---
