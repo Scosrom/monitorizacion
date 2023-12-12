@@ -11,7 +11,7 @@ La monitorización es un aspecto crítico en la gestión de sistemas y redes. Pr
 
 ## Índice
 
-1. Herramientas Propias del sistema
+### 1. Herramientas Propias del sistema
    
 **PROCESOS**
 
@@ -46,7 +46,7 @@ La monitorización es un aspecto crítico en la gestión de sistemas y redes. Pr
 
   - 3.4 netstat
    
-2 . Sistemas de monitorización
+### 2 . Sistemas de monitorización
      
   - 2.1  Prometheus
      
