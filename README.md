@@ -90,25 +90,22 @@ En esta sección, se presentan algunas herramientas propias del sistema que son 
 
 ### 🌐 **Redes** 🌏
 
-#### 1. [Herramientas propias del sistema]
-
-   - [1.1 tcpdump](redes.md)
+   - [3.1 tcpdump](redes.md)
    
 Descripcion:  Es una potente herramienta de línea de comandos para la captura y análisis de paquetes en una red. Permite ver el tráfico en tiempo real o guardar la captura en un archivo para su posterior análisis.
 
-   - [1.2 tcptrak](redes.md)
+   - [3.2 tcptrak](redes.md)
    
 Descripcion: Es una herramienta que muestra información en tiempo real sobre las conexiones TCP activas en una red. Proporciona una interfaz de usuario simple y colorida que muestra las conexiones en curso, su estado, la cantidad de datos transferidos y más.
 
-   - [1.3 iptraf](redes.md)
+   - [3.3 iptraf](redes.md)
 
 Descripcion: Es una herramienta de monitoreo de red basada en texto que muestra información detallada sobre el tráfico IP en tiempo real. 
 
   - PUERTOS:
 
-  - [netstat](redes.md)
+  - [3.4 netstat](redes.md)
    
-   - [Comandos](redes.md)
 ---
 
 #### 2. [Sistemas de monitorización](herramientas.md)
