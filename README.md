@@ -139,4 +139,7 @@ Descripción: Grafana es una plataforma de análisis y visualización que se int
 
 <h2 align="center"> Licencia  </h2>
 
-![licencia](/img/88x31.png)
+<p align="center">
+  <img src="/img/88x31.png" alt="licencia">
+</p>
+
