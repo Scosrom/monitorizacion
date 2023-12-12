@@ -67,6 +67,37 @@ Descripción: es una versión mejorada de top con una interfaz más amigable y f
 
 ### 💽 **Discos** 💾
 
+  - [2.1. df]
+
+Descripción: El comando df muestra información sobre el espacio disponible y utilizado en los sistemas de archivos montados. Proporciona detalles sobre la capacidad, el espacio utilizado, el espacio libre y el tipo de sistema de archivos.
+
+  - [2.2. du]
+
+Descripción: La utilidad du se utiliza para estimar el espacio utilizado por directorios y archivos en un sistema de archivos. Permite identificar qué directorios o archivos están ocupando más espacio.
+
+  - [2.3. iostat]
+
+Descripción: El comando iostat muestra estadísticas de entrada/salida del sistema, incluyendo información sobre el rendimiento de los discos. Proporciona datos sobre la tasa de transferencia, el tiempo de respuesta y la actividad de lectura/escritura.
+
+  - [2.4. lsof]
+
+Descripción: lsof (List Open Files) muestra una lista de archivos abiertos por procesos en el sistema. Es útil para identificar qué procesos tienen archivos abiertos en dispositivos de almacenamiento.
+2.5. smartctl
+
+Descripción: smartctl se utiliza para monitorizar y gestionar discos duros mediante la interfaz SMART (Self-Monitoring, Analysis and Reporting Technology). Proporciona información detallada sobre la salud y el rendimiento de los discos.
+  - [2.6. blkid]
+
+Descripción: El comando blkid muestra información sobre los dispositivos de bloque, como UUID (Identificador Único Universal) y el tipo de sistema de archivos. Es útil para identificar discos y particiones.
+
+  - [2.7. fdisk]
+
+Descripción: fdisk es una herramienta para la manipulación de tablas de particiones en discos. Se utiliza para crear, modificar y eliminar particiones en discos duros.
+
+  - [2.8. parted]
+
+Descripción: Similar a fdisk, parted es otra herramienta para la manipulación de particiones en discos. Proporciona una interfaz más interactiva y soporta más tipos de sistemas de archivos.
+Estas herramientas permiten monitorear y gestionar el uso de los discos en un sistema Linux, proporcionando información crucial sobre el espacio disponible, el rendimiento de los discos y la salud general del almacenamiento.
+
    - [Herramientas](discosh.md)
 ---
 
