@@ -115,7 +115,7 @@ En esta sección, se exploran herramientas clave para la monitorización de sist
 
 
 
-<h2 align="center"> Referencias </h2>
+<h2 align="center"> 🎖️ Referencias 🎖️ </h2>
 
 <p align="center">
   <a href="https://prometheus.io/docs/introduction/overview/">
